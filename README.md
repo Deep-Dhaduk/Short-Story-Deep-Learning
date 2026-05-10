@@ -36,7 +36,7 @@ A full review of the paper written in my own words, covering:
 
 ---
 
-**Notebook:** [`autoresearch/multimodal_survey_reproduction.ipynb`](./autoresearch/)
+**Notebook:** 
 
 Reproduces key evaluation concepts from the paper using the **autoresearch template**:
 - CLIP-based cross-modal similarity scoring (faithfulness metric)
@@ -45,7 +45,7 @@ Reproduces key evaluation concepts from the paper using the **autoresearch templ
 - Results visualization across modalities
 
 **How to run:**
-1. Open `autoresearch/multimodal_survey_reproduction.ipynb` in [Google Colab](https://colab.research.google.com/)
+1. Open Notebook in this directory in Google Colab by clicking this link (https://colab.research.google.com/)
 2. Run all cells (Runtime → Run All)
 3. No local GPU required — uses free Colab resources
 
